@@ -1,11 +1,11 @@
 function whisper(string)  {
-  return whisper.toLowerCase()
+  return string.toLowerCase()
 }
 
 function shout(string) {
-  return shout.toUpperCase()
+  return string.toUpperCase()
 }
 
-funtion logShout(string) {
-  console.log(logShout.toUpperCase())
+Functiontion logShout(string) {
+  console.log(string.toUpperCase())
 }
